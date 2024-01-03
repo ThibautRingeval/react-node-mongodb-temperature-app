@@ -35,6 +35,7 @@ Renommez le fichier .env.example en .env et configurez les variables d'environne
 ```bash
 npm install
 ```
+
 ###Accès à l'API <a name="accès-à-lapi"></a>
 Le serveur backend sera accessible à l'adresse `http://localhost:3001` par défaut.
 
