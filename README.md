@@ -39,7 +39,7 @@ npm install
 ###Accès à l'API <a name="accès-à-lapi"></a>
 Le serveur backend sera accessible à l'adresse `http://localhost:3001` par défaut.
 
-###Endpoints de l'API <a name="endpoints-de-lapi"></a>
-##GET /getTemperatureData <a name="get-gettemperaturedata"></a>
+### Endpoints de l'API <a name="endpoints-de-lapi"></a>
+## GET /getTemperatureData <a name="get-gettemperaturedata"></a>
 
 Cet endpoint renvoie les données de température stockées.
